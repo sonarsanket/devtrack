@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sanket",
+    "email": "sanket@gmail.com",
+    "team": "backend"
+  },
+  {
+    "id": 2,
+    "name": "Amol",
+    "email": "amol@gmail.com",
+    "team": "backend"
+  },
+  {
+    "id": 1,
+    "name": "sanket",
+    "email": "sanket@gmail.com",
+    "team": "backend"
+  },
+  {
+    "id": 1,
+    "name": "sanket",
+    "email": "sanket@gmail.com",
+    "team": "backend"
+  }
+]

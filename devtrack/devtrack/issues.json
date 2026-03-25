@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Login bug",
+    "description": "Button not working",
+    "status": "open",
+    "priority": "critical",
+    "reporter_id": 1
+  },
+  {
+    "id": 1,
+    "title": "Bug",
+    "description": "Error",
+    "status": "open",
+    "priority": "critical",
+    "reporter_id": 1
+  }
+]
